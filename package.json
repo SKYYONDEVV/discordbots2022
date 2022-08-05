@@ -1,0 +1,15 @@
+{
+  "name": "wn----giveawaybot",
+  "version": "1.0.0",
+  "description": "WN Giveaway bot ( voor de persoon die heeft gewonnen )",
+  "main": "index.js",
+  "scripts": {
+    "test": "!online"
+  },
+  "author": "$!SKYY!$",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.1.2",
+    "fs": "^0.0.1-security"
+  }
+}
